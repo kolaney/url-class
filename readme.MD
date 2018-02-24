@@ -1,0 +1,1 @@
+Simple URL parsing in Java, not done as a school project but in preparation for a school project using Java which I do not have permission to publicise.
